@@ -195,7 +195,6 @@ public class ArrayListsTest {
         // Then
         Assert.assertTrue(actual);
     }
-
     @Test
     public void happyListTest4(){
         // Given
@@ -206,7 +205,6 @@ public class ArrayListsTest {
         // Then
         Assert.assertTrue(actual);
     }
-
     @Test
     public void happyListTest5(){
         // Given
